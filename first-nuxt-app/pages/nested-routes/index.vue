@@ -1,5 +1,5 @@
 <template>
     <div>
-        hello shyamraj
+        We are inside nested routes
     </div>
 </template>
